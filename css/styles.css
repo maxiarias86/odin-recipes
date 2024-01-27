@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+
+#web-title {
+    color: red;
+    text-align: center;
+}
+
+.page-title {
+    text-align: left;
+}
